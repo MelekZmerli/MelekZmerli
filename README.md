@@ -2,7 +2,7 @@
 <p align='center'>
 I'm Melek.
 </p>
-<p align='center'>Software Engineering Student from Tunisia</p>
+<p align='center'>A Software Engineering Student from Tunisia</p>
 
 <h1 align='center'><i>Kick Bugs & Collect Warnings! 😄</i></h1>
 <!--
