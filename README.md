@@ -1,5 +1,10 @@
-### Hi there 👋
-  I'm Melek.
+<h1 align='center'> Hi! :wave:</h1>
+<p align='center'>
+I'm Melek.
+</p>
+<p align='center'>Software Engineering Student from Tunisia</p>
+
+<h1 align='center'><i>Kick Bugs & Collect Warnings! 😄</i></h1>
 <!--
 **MelekZmerli/MelekZmerli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
