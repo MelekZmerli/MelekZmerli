@@ -2,7 +2,7 @@
 <p align='center'>
 I'm Melek.
 </p>
-<p align='center'>A Software Engineering Student from Tunisia<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/tn.svg" title="TN" alt="TN"/>&nbsp;
+<p align='center'>A Software Engineering Student from Tunisia<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/tn.svg" title="TN" alt="TN" width="20" height="15"/>&nbsp;
  who likes to kick bugs & collect warnings! 😄</p>
 
 ---
