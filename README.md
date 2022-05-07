@@ -2,7 +2,7 @@
 <p align='center'>
 I'm Melek.
 </p>
-<p align='center'>A Software Engineering Student from Tunisia <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/tn.svg" title="TN" alt="TN" width="15" height="10"/>&nbsp;
+<p align='center'>A Software Engineering Student from Tunisia <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/tn.svg" title="TN" alt="TN" width="15" height="10"/>&nbsp;&nbsp;&nbsp;
  who likes to kick bugs & collect warnings! 😄</p>
 
 ---
@@ -21,7 +21,7 @@ I'm Melek.
   
   ---
   ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MelekZmerli&theme=dark&background=000000)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MelekZmerli&theme=dark&background=000000)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MelekZmerli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
