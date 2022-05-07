@@ -2,9 +2,9 @@
 <p align='center'>
 I'm Melek.
 </p>
-<p align='center'>A Software Engineering Student from Tunisia</p>
+<p align='center'>A Software Engineering Student from Tunisia who likes to kick bugs & collect warnings! 😄</p>
 
-<h1 align='center'><i>Kick Bugs & Collect Warnings! 😄</i></h1>
+---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
