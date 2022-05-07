@@ -1,8 +1,8 @@
-<h1 align='center'> Hi! :wave:</h1>
+<h1 align='center'>  :wave:!السلام </h1>
 <p align='center'>
 I'm Melek.
 </p>
-<p align='center'>A Software Engineering Student from Tunisia <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/tn.svg" title="TN" alt="TN" width="15" height="10"/>&nbsp;
+<p align='center'>A Software Engineering Student from Tunisia <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/tn.svg" title="TN" alt="TN" width="18" height="13"/>&nbsp;
  who likes to kick bugs & collect warnings! 😄</p>
 
 ---
