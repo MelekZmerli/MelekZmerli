@@ -3,7 +3,7 @@
 I'm Melek.
 </p>
 <p align='center'>A Software Engineering Student from Tunisia <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/tn.svg" title="TN" alt="TN" width="18" height="13"/>&nbsp;
- who likes to kick bugs & collect warnings! 😄</p>
+ who likes to kick errors & collect warnings! 😄</p>
 
 ---
 
